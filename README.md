@@ -17,8 +17,8 @@ npx hardhat run scripts/deploy.js --network NETWORKNAME
 ```
 Build using the following commands:
 ```
-git clone https://github.com/gfournieriExec/Hardhat-starter.git
-cd Hardhat-starter
+git clone https://github.com/gfournieriExec/hardhat-starter-project.git
+cd hardhat-starter-project
 npm install
 ```
 
