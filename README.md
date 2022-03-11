@@ -15,3 +15,10 @@ npx hardhat node --fork HTTPENDPOINT
 npx hardhat run scripts/deploy.js --network NETWORKNAME
 
 ```
+Build using the following commands:
+```
+git clone https://github.com/gfournieriExec/Hardhat-starter.git
+cd Hardhat-starter
+npm install
+```
+
