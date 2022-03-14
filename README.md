@@ -21,5 +21,6 @@ git clone https://github.com/gfournieriExec/hardhat-starter-project.git
 cd hardhat-starter-project
 npm install
 npm i @nomiclabs/hardhat-etherscan @openzeppelin/contracts
+cp ~/Documents/Solidity/credentials.js ./
 ```
 
