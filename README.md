@@ -13,6 +13,7 @@ node scripts/sample-script.js
 npx hardhat help
 npx hardhat node --fork HTTPENDPOINT
 npx hardhat run scripts/deploy.js --network NETWORKNAME
+npx hardhat verify --network NETWORKNAME CONTRACT_ADDRESS
 
 ```
 Build using the following commands:
