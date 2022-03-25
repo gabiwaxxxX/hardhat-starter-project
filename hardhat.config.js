@@ -34,6 +34,11 @@ module.exports = {
       url: `https://speedy-nodes-nyc.moralis.io/${credentials.moralis}/avalanche/testnet`,
       accounts: [credentials.privateKey],
     },
+    
+    vivaniIexec: {
+      url: `https://viviani.iex.ec`,
+      accounts: [credentials.privateKey],
+    },
 
     local: {
       url: `http://127.0.0.1:8545/`,
